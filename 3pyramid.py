@@ -1,5 +1,4 @@
-from math import floor
-
+#Python code to print a pyramid
 
 n = int(input("Enter a number : "))
 for i in range (n):
